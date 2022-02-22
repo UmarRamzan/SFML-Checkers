@@ -1,2 +1,2 @@
 # SFML-Checkers
-A simple checkers GUI in sfml
+A simple checkers GUI in SFML
